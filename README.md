@@ -1,2 +1,2 @@
 # recentworks
-Author-Susanta Kumar Gouda
+Author : Susanta Kumar Gouda
